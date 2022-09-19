@@ -1,0 +1,16 @@
+
+// scripts
+// npm run startfor testing the project <development process>
+// npm run start:prod
+
+// npm run lint  for linting 
+// npm run format for formatting
+// npm run test for unit testing 
+
+
+// endpoints 
+ //  / the main endpoint 
+//  /images  the endpoint for resizing the images 
+
+
+// the application url >> http://localhost:3000/images?name=fjord&width=200&height=300
